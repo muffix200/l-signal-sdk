@@ -1,5 +1,5 @@
 {
-  "name": "@lavina-tech/l-signal-sdk",
+  "name": "@muffix200/l-signal-sdk",
   "version": "1.0.0",
   "description": "Signal React Native SDK — push notifications, in-app messages, and user identity for self-hosted Signal",
   "main": "lib/index.js",
@@ -23,7 +23,7 @@
     "type-check": "tsc --noEmit"
   },
   "publishConfig": {
-    "registry": "https://registry.npmjs.org/",
+    "registry": "https://npm.pkg.github.com/",
     "access": "public"
   },
   "license": "MIT",
